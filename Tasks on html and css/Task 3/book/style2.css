@@ -1,0 +1,93 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(250, 242, 242);
+}
+.heading{
+    width: 100%;
+    height: 130px;
+    background-color: rgb(53, 139, 214);
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.heading h1{
+    padding-top: 35px;
+}
+.content1{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 300px;
+    
+    border-radius: 15px;
+    line-height: 35px;
+    width: 700px;
+}
+.content1 h2{
+    padding-left:35px ;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 15px;
+    color: rgb(19, 116, 243);
+    
+}
+ul li{
+    padding-left:35px ;
+    color: rgb(19, 116, 243);
+    list-style: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+p{
+    padding-left:35px ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+hr {
+    border: none;
+    border-top: 2px solid rgb(128, 170, 247);
+    margin: 0 20px; /* Add space of 20px on both sides */
+    padding: 0; /* Reset padding */
+}
+
+
+.content2{
+    background-color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    height: 300px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 300px;
+    
+    border-radius: 15px;
+    line-height: 35px;
+    width: 700px;
+}
+.content2 h2{
+    padding-left:35px ;
+    padding-top: 15px;
+    font-weight: bold;
+    font-size: 40px;
+    padding-bottom: 15px;
+    color: rgb(19, 116, 243);
+}
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: rgb(53, 139, 214) ;
+    text-align: center;
+}
+footer h4{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    color: white;
+}

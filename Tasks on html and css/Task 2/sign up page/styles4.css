@@ -1,0 +1,32 @@
+body {
+	font-family: Arial, sans-serif;
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+.destination {
+	border: 1px solid #638cc1;
+	border-radius: 5px;
+	background-color: #376a8e;
+	padding: 20px;
+}
+
+.destination-title {
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+.welcome-message {
+	margin-bottom: 20px;
+}
+
+.subsection-title {
+	margin-top: 30px;
+	margin-bottom: 10px;
+}
+
+.place,
+.activity {
+	margin-bottom: 1
+}
